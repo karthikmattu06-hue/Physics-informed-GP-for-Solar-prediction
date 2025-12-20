@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environments
+.env
+.venv/
+venv/
+
+# Data & models
+data/
+datasets/
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Logs & outputs
+logs/
+outputs/
+results/
